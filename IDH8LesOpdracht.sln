@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDH8LesOpdracht", "IDH8LesOpdracht\IDH8LesOpdracht.csproj", "{99491DA6-6DC7-4EE3-AC47-47294071981C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IDH8LesOpdracht.Tests", "IDH8LesOpdracht.Tests\IDH8LesOpdracht.Tests.csproj", "{49023AB8-1C8B-4DCB-95D7-E6D317E17F7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99491DA6-6DC7-4EE3-AC47-47294071981C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99491DA6-6DC7-4EE3-AC47-47294071981C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99491DA6-6DC7-4EE3-AC47-47294071981C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99491DA6-6DC7-4EE3-AC47-47294071981C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49023AB8-1C8B-4DCB-95D7-E6D317E17F7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49023AB8-1C8B-4DCB-95D7-E6D317E17F7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49023AB8-1C8B-4DCB-95D7-E6D317E17F7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49023AB8-1C8B-4DCB-95D7-E6D317E17F7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABFB15A7-961C-4790-986F-4DE6CBC363F2}
+	EndGlobalSection
+EndGlobal
